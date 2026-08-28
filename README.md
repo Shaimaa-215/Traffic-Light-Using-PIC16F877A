@@ -3,7 +3,7 @@
 A complete traffic light control system designed using the Microchip PIC16F877A microcontroller, featuring seamless transitions between Automatic and Manual modes.
 
 ## System Simulation
-![Circuit Simulation](simulation.png)
+![Circuit Simulation](Simulation.png)
 
 ## Features
 - **Automatic Mode:** Sequential timing logic for traffic flow.
@@ -11,7 +11,7 @@ A complete traffic light control system designed using the Microchip PIC16F877A 
 - **Display System:** 7-Segment displays driven by BCD Decoders.
 
 ## Software Flowchart
-![Flowchart](flowchart.png)
+![Flowchart](Flowchart.png)
 
 ## Tools & Environment
 - **Compiler:** mikroC PRO for PIC
